@@ -1,0 +1,24 @@
+{
+  "basics":{
+    "name":"Kavya",
+    "email":"tkavya999@gmail.com",
+    "moblie":"+91-9999999988"
+  },
+  "education":[
+    {
+      "degree":"B-Tech",
+      "institute":"PSCMR",
+      "data":["2014-18","79%"]
+    },
+{
+  "degree":"Intermediate/Diploma",
+  "institute":"NRI College",
+  "data":["2012-14","93%"]
+},
+{
+  "degree":"s.s.c",
+  "institute":"Gowthama E.M school",
+  "data":["2013","7.7"]
+}
+]
+}
