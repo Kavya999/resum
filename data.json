@@ -4,6 +4,9 @@
     "email":"tkavya999@gmail.com",
     "moblie":"+91-9999999988"
   },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
   "education":[
     {
       "degree":"B-Tech",
@@ -20,5 +23,34 @@
   "institute":"Gowthama E.M school",
   "data":["2013","7.7"]
 }
+],
+"achievements":[
+
+  {
+    "name":"Awarded as<b>1<sup>st</sup>prize</b> in <q>Self-defence</q>"
+
+  },
+  {
+    "name":"Got<strong>1<sup>st</sup>prize</strong> for <q>PPT</q>"
+
+  }
+],
+"technical":[
+  {
+    "name":"programming language",
+    "data":["c","java","c++","python","c++","php"]
+  },
+  {
+    "name":"database",
+    "data":["mysql","oracle"]
+  },
+  {
+    "name":"web technologies",
+    "data":["HTML","CSS","Javascript"]
+  },
+  {
+    "name":"libraries and frameworks",
+    "data":["jQuery","codeIgnitor"]
+  }
 ]
 }
